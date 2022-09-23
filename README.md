@@ -1,6 +1,6 @@
-<p style="text-align: center;"><img src="https://media.discordapp.net/attachments/1019163328267964447/1022824260001083472/2.png" /></p>
+<p align="center" style="text-align: center;"><img src="https://media.discordapp.net/attachments/1019163328267964447/1022824260001083472/2.png" /></p>
 
-## <p style="font-family:opensans; text-align: center; font-size:1em;">**[Zoé](https://discord.com/api/oauth2/authorize?client_id=928293265982230538&permissions=8&scope=bot%20applications.commands)** • **[Support Server](https://discord.gg/dYrskrjVtK)** • **[OnlyGaming](https://discord.gg/AnxhqvaBcY)** • **[ZoéPTB](https://discord.com/api/oauth2/authorize?client_id=999306694620356608&permissions=8&scope=bot%20applications.commands)**</p>
+## <p align="center" style="font-family:opensans; text-align: center; font-size:1em;">**[Zoé](https://discord.com/api/oauth2/authorize?client_id=928293265982230538&permissions=8&scope=bot%20applications.commands)** • **[Support Server](https://discord.gg/dYrskrjVtK)** • **[OnlyGaming](https://discord.gg/AnxhqvaBcY)** • **[ZoéPTB](https://discord.com/api/oauth2/authorize?client_id=999306694620356608&permissions=8&scope=bot%20applications.commands)**</p>
 
 <p style="font-family:opensans; font-size:1em;">
 
