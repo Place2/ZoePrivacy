@@ -1,5 +1,3 @@
-Terms of Service
- 
 # Privacy Policy
 
 ## [What data is used?]()
