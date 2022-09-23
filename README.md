@@ -17,7 +17,7 @@
     -   Banned users
 
 ### <font color="cyan">When will my data be saved? </font>
-
+### <span style="color: cyan"> When will my data be saved? </span>
 -   The bot has several `setup` commands, executing one of these commands will save data from that `setup`.
 
 ### <font color="cyan">What data is stored? </font>
